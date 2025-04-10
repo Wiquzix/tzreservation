@@ -31,8 +31,8 @@ REST API сервис для управления бронированием с�
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
-cd restaurant-reservation-api
+git clone https://github.com/Wiquzix/tzreservation
+cd tzreservation
 ```
 
 2. Запустите приложение с помощью Docker Compose:
